@@ -59,7 +59,7 @@
 
 ### Setup
 
-1. [Download Rcbuilder]
+1. [Download Rcbuilder](https://github.com/RCmethodz/RCbuilder/tree/main)
 2. Run `install_python.bat` if you don't have python installed
 3. run the `RC-main.exe` and let it load.
 4. Follow instructions in RC-main and your exe will be found in the `dist` folder under the name `main.exe`
