@@ -64,7 +64,7 @@
 3. run the `RC Main.py` and let it load.
 4. Follow instructions in RC-main and your exe will be found in the `dist` folder under the name `main.exe`
 
-![image](https://github.com/RCmethodz/RCbuilder/assets/155228545/992b5f02-191b-4797-8262-d6acb9cb1a87)
+
 
 ![image](https://github.com/RCmethodz/RCbuilder/assets/155228545/4275283f-09da-4b8f-8ca3-2bd646fa2e8c)
 
