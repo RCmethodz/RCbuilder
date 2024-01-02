@@ -66,7 +66,6 @@
 
 
 
-![image](https://github.com/RCmethodz/RCbuilder/assets/155228545/4275283f-09da-4b8f-8ca3-2bd646fa2e8c)
 
 ![image](https://github.com/RCmethodz/RCbuilder/assets/155228545/cbc9a72e-b21c-4a77-934c-9a7c56209bb6)
 
